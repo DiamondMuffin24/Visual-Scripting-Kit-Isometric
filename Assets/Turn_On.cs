@@ -22,7 +22,7 @@ public class Turn_On : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.Z))
         {
-            SceneManager.LoadScene("2d_Rhythem_01");
+            SceneManager.LoadScene("Start");
         }
     }
 }
